@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Tips 4 TFM"
+  author: "Antonio J. Perez-Luque"
+  chapters:
+    - index.qmd
+    - literature-review.qmd
+    - summary.qmd
+    - useful-links.qmd
+    - references.qmd
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

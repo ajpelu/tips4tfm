@@ -1,0 +1,11 @@
+# Useful links {#sec-links}
+
+## Literature Review 
+- [ ] PRISMA for Ecology and Evolutionary Biology
+    + [PRISMA extension](https://www.prisma-statement.org/Extensions/EcoEvo)
+    +  [paper](https://onlinelibrary.wiley.com/doi/10.1111/brv.12721) Preferred reporting items for systematic reviews and meta-analyses in ecology and evolutionary biology: a PRISMA extension
+- [ ] [Eight problems with literature reviews and how to
+fix them](https://www.nature.com/articles/s41559-020-01295-x)  
+- [ ] Guide for Literature Review in Ecology and Evolutionary Biology, [Pricenton University](https://libguides.princeton.edu/eeb/litreview) 
+- [ ] [Literature Reviews](https://writingcenter.unc.edu/tips-and-tools/literature-reviews/) - The Writing Center, University of North Carolina
+- [ ] [¿Cómo se hace una revisión bibliográfica?](https://www.proyectatuproyecto.com/revisionbibliografica/)

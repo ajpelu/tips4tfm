@@ -1,0 +1,9 @@
+# Preámbulo {.unnumbered}
+
+Este libro recoge diferentes recursos para llevar a cabo el proceso de elaboración del Trabajo Fin de Máster (TFM). 
+
+Un aspecto importante antes de realizar un TFM es conocer la normativa específica para la realización del mismo dictada por la universidad donde se está realizando el máster, y los requisitos específicos dictados en el programa de máster. Así por ejemplo, la [Universidad de Granada](www.ugr.es) en su *Normativa reguladora de los estudios de máster universitario en la Universidad de Granada*[^1], indica los diferentes tipos de TFM contemplados así como otros aspectos a considerar cuando se realiza un TFM. 
+
+[^1]: Aprobada por el Consejo de Gobierno de la Universidad de Granada, en su sesión de 18 de mayo de 2015. Ver [Boletín Oficial de la Universidad de Granada nº 95. 25 de mayo de 2015](https://secretariageneral.ugr.es/sites/webugr/secretariageneral/public/inline-files/NCG951.pdf)
+
+
