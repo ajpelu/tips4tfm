@@ -7,11 +7,11 @@
     "text": "Aprobada por el Consejo de Gobierno de la Universidad de Granada, en su sesión de 18 de mayo de 2015. Ver Boletín Oficial de la Universidad de Granada nº 95. 25 de mayo de 2015↩︎"
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "literature-review.html",
+    "href": "literature-review.html",
+    "title": "1  La revisión bibliográfica",
     "section": "",
-    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Mirar mas enlaces en Chapter 3\nUna revisión bibliográfica tiene un papel fundamental en el avance de la ciencia,\nLas revisiones bibliográficas sirven para:\n\nProporciona un marco teórico y metodoloógico que permite hacer aportaciones propias e incluso ser innovadores al afrontar nuevas investigaciones.\nSon la base de productos académicos tales como los estados de la cuestión y los trabajos de revisión. En algunos casos son también la razón de ser de algunas tipologías de TFM.\nEvitan el riesgo de repetir investigaciones o de utilizar teorías obsoletas o desacreditadas.\nSirven para identificar huecos y oportunidades de investigación.\nEn artículos científicos y en memorias de solicitud de proyectos financiados proporcionan garantías a los evaluadores, ya que demuestran que los autores conocen el campo en el que han llevado a cabo su trabajo.\nEn tesis doctorales o de máster, permiten demostrar que los autores son capaces de analizar e interpretar críticamente trabajos científicos.\nProporcionan acceso a las teorías y conceptos que forman parte de la corriente principal del campo en el que se pretende realizar aportaciones.\nAportan la base de la evidencia para el estado de la cuestión y trabajos de revisión\nProporcionan ideas y modelos para nuevas investigaciones\n\nEvitan la repetición de investigaciones y el uso de teorías obsoletas o desacreditadas\nDan garantías a los evaluadores de que los autores conocen el ámbito de la investigación."
   },
   {
     "objectID": "summary.html",
@@ -19,20 +19,6 @@
     "title": "2  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever."
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "literature-review.html",
-    "href": "literature-review.html",
-    "title": "1  La revisión bibliográfica",
-    "section": "",
-    "text": "Mirar mas enlaces en Chapter 3\nUna revisión bibliográfica tiene un papel fundamental en el avance de la ciencia,\nLas revisiones bibliográficas sirven para:\n\nProporciona un marco teórico y metodoloógico que permite hacer aportaciones propias e incluso ser innovadores al afrontar nuevas investigaciones.\nSon la base de productos académicos tales como los estados de la cuestión y los trabajos de revisión. En algunos casos son también la razón de ser de algunas tipologías de TFM.\nEvitan el riesgo de repetir investigaciones o de utilizar teorías obsoletas o desacreditadas.\nSirven para identificar huecos y oportunidades de investigación.\nEn artículos científicos y en memorias de solicitud de proyectos financiados proporcionan garantías a los evaluadores, ya que demuestran que los autores conocen el campo en el que han llevado a cabo su trabajo.\nEn tesis doctorales o de máster, permiten demostrar que los autores son capaces de analizar e interpretar críticamente trabajos científicos.\nProporcionan acceso a las teorías y conceptos que forman parte de la corriente principal del campo en el que se pretende realizar aportaciones.\nAportan la base de la evidencia para el estado de la cuestión y trabajos de revisión\nProporcionan ideas y modelos para nuevas investigaciones\n\nEvitan la repetición de investigaciones y el uso de teorías obsoletas o desacreditadas\nDan garantías a los evaluadores de que los autores conocen el ámbito de la investigación."
   },
   {
     "objectID": "useful-links.html",
